@@ -1,0 +1,915 @@
+==============================
+COLLABORATIVE FILTER MECHANISM
+==============================
+Interaction based recommendation without considering Age
+Final vector for Customers
+Number of Customers : 99932
+Number of Products  : 79
+Model hyper-parameters
+{'algorithm': 'brute', 'leaf_size': 30, 'metric': 'cosine', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'radius': 1.0}
+Selecting 20 random customers ... 
+Nearest Neighbours of Customer : 1XQ3SGJADC 
+1: Customer=D3TV4CX1F6, with distance of 0.03310692310333252
+2: Customer=WD4EBF8GRO, with distance of 0.12382042407989502
+3: Customer=K0YA8TJ6EI, with distance of 0.13576143980026245
+4: Customer=EQ9RY6XWBK, with distance of 0.18439960479736328
+Recommendations from model has a similarity of 0.8967632695307525 with actual behavior for Customer: 1XQ3SGJADC 
+Recommendations: 
+cellphone
+deodrant
+diamondjewellery
+laptopbag
+luxurywatch
+netflixvoucher
+passportbag
+shirt
+tataskygiftcard
+usbstick
+
+
+
+Nearest Neighbours of Customer : 0NFB36IYKU 
+1: Customer=VLSD3PAX56, with distance of 0.09271776676177979
+2: Customer=YWIEZN4VQ5, with distance of 0.09271776676177979
+3: Customer=38ALQ542J0, with distance of 0.0945514440536499
+4: Customer=ZKAP134LET, with distance of 0.09672296047210693
+Recommendations from model has a similarity of 0.9060971581961659 with actual behavior for Customer: 0NFB36IYKU 
+Recommendations: 
+agodavoucher
+bharatpetroleumvoucher
+handbag
+headphone
+laptop
+monitors
+passportbag
+powerbank
+tshirt
+yatravoucher
+
+
+
+Nearest Neighbours of Customer : 1SQY0GZUFB 
+1: Customer=V0NP6RK7ED, with distance of 0.09559768438339233
+2: Customer=SQ58O67JEM, with distance of 0.09614676237106323
+3: Customer=57LJ9I1VO8, with distance of 0.14441704750061035
+4: Customer=M8C4UGI3AB, with distance of 0.17024832963943481
+Recommendations from model has a similarity of 0.9253017465102399 with actual behavior for Customer: 1SQY0GZUFB 
+Recommendations: 
+alexa
+ballpen
+cultfitvoucher
+exotictea
+headphone
+laptop
+notepad
+smartlights
+usbcable
+usbstick
+
+
+
+Nearest Neighbours of Customer : 3I06DUORBK 
+1: Customer=SLTNHQJKX5, with distance of 0.012835800647735596
+2: Customer=7LYNOI09PR, with distance of 0.017106175422668457
+3: Customer=YO5IM71N3H, with distance of 0.020344257354736328
+4: Customer=IG3NC7PDM6, with distance of 0.021711647510528564
+Recommendations from model has a similarity of 0.9912413875934674 with actual behavior for Customer: 3I06DUORBK 
+Recommendations: 
+books
+byjugiftcard
+casualshoes
+deodrant
+hometheatre
+olacashcard
+sunglasses
+trouser
+watch
+zomatocashcard
+
+
+
+Nearest Neighbours of Customer : 3IK5ORTCDU 
+1: Customer=JXB7OCD9LA, with distance of 0.052196621894836426
+2: Customer=JUW9785OF1, with distance of 0.0562627911567688
+3: Customer=DFC7HTG35K, with distance of 0.058446526527404785
+4: Customer=BJDQ2YP5TG, with distance of 0.06688189506530762
+Recommendations from model has a similarity of 0.9457644686026947 with actual behavior for Customer: 3IK5ORTCDU 
+Recommendations: 
+cleartripvoucher
+hotelmarriotgiftcard
+hoteltajgiftcard
+irctcvoucher
+laptop
+lights
+olacashcard
+perfume
+powerbank
+yatravoucher
+
+
+
+Nearest Neighbours of Customer : 0JV8462LIK 
+1: Customer=C37IHLZKT1, with distance of 0.0011518597602844238
+2: Customer=F6TL7IU3SG, with distance of 0.0013439059257507324
+3: Customer=GLX48HWSCF, with distance of 0.016801655292510986
+4: Customer=SOCBEF90ZG, with distance of 0.01682758331298828
+Recommendations from model has a similarity of 0.9969285335940796 with actual behavior for Customer: 0JV8462LIK 
+Recommendations: 
+agodavoucher
+diamondjewellery
+laptop
+monitors
+netflixvoucher
+passportbag
+sleepers
+speakers
+tataskygiftcard
+woodfurniture
+
+
+
+Nearest Neighbours of Customer : 03BKTO6PEI 
+1: Customer=EXMS8Z69P5, with distance of 0.0007939338684082031
+2: Customer=1V05ARGH6U, with distance of 0.0031796693801879883
+3: Customer=E5I3FZV0X4, with distance of 0.003976106643676758
+4: Customer=NAG5BDSWZ3, with distance of 0.003976106643676758
+Recommendations from model has a similarity of 0.9988027805578006 with actual behavior for Customer: 03BKTO6PEI 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+blouse
+bookmyshowgiftcard
+books
+brief
+kindle
+makemytripvoucher
+
+
+
+Nearest Neighbours of Customer : 2DE4LP0BOW 
+1: Customer=N15Y89EB6J, with distance of 0.004835665225982666
+2: Customer=2Q3UF4KJBY, with distance of 0.01807790994644165
+3: Customer=MW46RYFHG1, with distance of 0.01824718713760376
+4: Customer=0KUT1EXJ8D, with distance of 0.022390127182006836
+Recommendations from model has a similarity of 0.9901664040040089 with actual behavior for Customer: 2DE4LP0BOW 
+Recommendations: 
+byjugiftcard
+irctcvoucher
+luxurywatch
+monitors
+notepad
+passportbag
+perfume
+sonylivvoucher
+speakers
+television
+
+
+
+Nearest Neighbours of Customer : 0GCT8BW37M 
+1: Customer=0GDFE24UQ8, with distance of 0.0026328563690185547
+2: Customer=WBKFYVTN8Z, with distance of 0.005909383296966553
+3: Customer=L93KR85CM0, with distance of 0.03888833522796631
+4: Customer=XL3H67N5ID, with distance of 0.05288130044937134
+Recommendations from model has a similarity of 0.9927109883332322 with actual behavior for Customer: 0GCT8BW37M 
+Recommendations: 
+agodavoucher
+bharatpetroleumvoucher
+brief
+exotictea
+jeans
+perfume
+swiggycashcard
+tataskygiftcard
+vootvoucher
+watch
+
+
+
+Nearest Neighbours of Customer : 3HXS401LCZ 
+1: Customer=H6CKD5PGX8, with distance of 0.14213132858276367
+2: Customer=CPSX756K3O, with distance of 0.1458367109298706
+3: Customer=9YZLUKRAWC, with distance of 0.1745837926864624
+4: Customer=FH5M6APCT2, with distance of 0.18016397953033447
+Recommendations from model has a similarity of 0.8691444992721951 with actual behavior for Customer: 3HXS401LCZ 
+Recommendations: 
+agodavoucher
+bharatpetroleumvoucher
+books
+hotelmarriotgiftcard
+kindle
+makemytripvoucher
+monitors
+speakers
+usbcable
+watch
+
+
+
+Nearest Neighbours of Customer : 0DGZJA2NQ8 
+1: Customer=QPDCJN2U4L, with distance of 0.09108036756515503
+2: Customer=JNEMZL91SV, with distance of 0.14087164402008057
+3: Customer=ZKRNLT17HI, with distance of 0.14323753118515015
+4: Customer=GO1PHAKMFS, with distance of 0.14323753118515015
+Recommendations from model has a similarity of 0.9377690505917092 with actual behavior for Customer: 0DGZJA2NQ8 
+Recommendations: 
+ballpen
+exotictea
+googlehome
+hometheatre
+lights
+notepad
+skirt
+speakers
+swiggycashcard
+woodfurniture
+
+
+
+Nearest Neighbours of Customer : 3D72QTU4IK 
+1: Customer=1C7QGSAKI2, with distance of 0.10944300889968872
+2: Customer=X3MUDAVCNW, with distance of 0.15489494800567627
+3: Customer=1PD6VUXALO, with distance of 0.17292821407318115
+4: Customer=01BZCWQSFU, with distance of 0.1762995719909668
+Recommendations from model has a similarity of 0.9101569136301803 with actual behavior for Customer: 3D72QTU4IK 
+Recommendations: 
+agodavoucher
+casualshoes
+handbag
+laptopbag
+powerbank
+printer
+rummycirclegiftcard
+vest
+vootvoucher
+woodfurniture
+
+
+
+Nearest Neighbours of Customer : 0AM7QK1BH2 
+1: Customer=AWZ7T5XB2L, with distance of 0.0029773712158203125
+2: Customer=176H3XJIOS, with distance of 0.0031847357749938965
+3: Customer=3CB2V9I0R1, with distance of 0.0031847357749938965
+4: Customer=QPV247UFMB, with distance of 0.0031847357749938965
+Recommendations from model has a similarity of 0.9969725933397213 with actual behavior for Customer: 0AM7QK1BH2 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+blouse
+bookmyshowgiftcard
+books
+hometheatre
+metalfurniture
+television
+
+
+
+Nearest Neighbours of Customer : 27RUJP3KWE 
+1: Customer=XTYKHP8VSQ, with distance of 0.10160297155380249
+2: Customer=QMND8RETY6, with distance of 0.10931575298309326
+3: Customer=KIBFC9T57H, with distance of 0.11775600910186768
+4: Customer=HPF5RI1OMA, with distance of 0.1221076250076294
+Recommendations from model has a similarity of 0.9227820834317865 with actual behavior for Customer: 27RUJP3KWE 
+Recommendations: 
+deodrant
+diamondjewellery
+formalshoes
+googlehome
+olacashcard
+passportbag
+shavingcream
+tablet
+vedantugiftcard
+vest
+
+
+
+Nearest Neighbours of Customer : 317IM589HT 
+1: Customer=JU1O23FZVW, with distance of 0.014330387115478516
+2: Customer=D7TQUZXBKA, with distance of 0.07065165042877197
+3: Customer=XN1QU8FHGA, with distance of 0.07125508785247803
+4: Customer=23URP8QLFX, with distance of 0.07128983736038208
+Recommendations from model has a similarity of 0.9608937674052396 with actual behavior for Customer: 317IM589HT 
+Recommendations: 
+books
+brief
+deodrant
+dreams11giftcard
+formalshoes
+headphone
+passportbag
+rummycirclegiftcard
+skirt
+usbcable
+
+
+
+Nearest Neighbours of Customer : 2WECR79S8P 
+1: Customer=RFKWZXYE5B, with distance of 0.07154685258865356
+2: Customer=EY80G7O4CF, with distance of 0.09416067600250244
+3: Customer=PRKTGNZWJF, with distance of 0.09416067600250244
+4: Customer=VITQ13AE78, with distance of 0.0947345495223999
+Recommendations from model has a similarity of 0.9236724574553048 with actual behavior for Customer: 2WECR79S8P 
+Recommendations: 
+cultfitvoucher
+goldjewelley
+handbag
+inkpen
+irctcvoucher
+metalfurniture
+monitors
+skirt
+television
+zomatocashcard
+
+
+
+Nearest Neighbours of Customer : QDVA47NG0M 
+1: Customer=0U8RHWO9NZ, with distance of 0.0
+2: Customer=PGDHX56IQN, with distance of 0.0029523372650146484
+3: Customer=TR6YVIAFZB, with distance of 0.0035465359687805176
+4: Customer=DJ9M8ELRA5, with distance of 0.013589143753051758
+Recommendations from model has a similarity of 0.9977275451781403 with actual behavior for Customer: 0U8RHWO9NZ 
+Recommendations: 
+ballpen
+byjugiftcard
+cellphone
+hometheatre
+passportbag
+smartlights
+smartwatch
+sonylivvoucher
+trouser
+yatravoucher
+
+
+
+Nearest Neighbours of Customer : 2FKUHPZ9O8 
+1: Customer=0G1X7D94WO, with distance of 0.1845475435256958
+2: Customer=HK6BXU5YNW, with distance of 0.1928175687789917
+3: Customer=BUQ8HJF39R, with distance of 0.2212979793548584
+4: Customer=RT9HK1AC38, with distance of 0.22487932443618774
+Recommendations from model has a similarity of 0.8565429571570445 with actual behavior for Customer: 2FKUHPZ9O8 
+Recommendations: 
+casualshoes
+deodrant
+exotictea
+fancylights
+handbag
+makemytripvoucher
+perfume
+powerbank
+ubercashcard
+vedantugiftcard
+
+
+
+Nearest Neighbours of Customer : 2XUHLE4TS6 
+1: Customer=B8FEPO6UV0, with distance of 0.0197829008102417
+2: Customer=3LXHS1W6BP, with distance of 0.031096935272216797
+3: Customer=SICVW6FKX3, with distance of 0.031096935272216797
+4: Customer=N5OA2RZYJQ, with distance of 0.034949421882629395
+Recommendations from model has a similarity of 0.9804798410720025 with actual behavior for Customer: 2XUHLE4TS6 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+blouse
+jeans
+laptopbag
+menssuit
+smartlights
+vedantugiftcard
+
+
+
+Nearest Neighbours of Customer : 24CTB9EH1A 
+1: Customer=DEBC3IFW6V, with distance of 0.18793368339538574
+2: Customer=A0X1CWDL3U, with distance of 0.2814786434173584
+3: Customer=16CGOEW5ZQ, with distance of 0.29044389724731445
+4: Customer=PQNIBJTVF2, with distance of 0.2948775887489319
+Recommendations from model has a similarity of 0.8811148804218096 with actual behavior for Customer: 24CTB9EH1A 
+Recommendations: 
+blouse
+bookmyshowgiftcard
+handbag
+headoutvoucher
+irctcvoucher
+olacashcard
+perfume
+usbcable
+usbstick
+vest
+
+
+
+========================
+Age based recommendation
+========================
+Final vector for Customers
+Number of Customers : 99932
+Number of Products  : 79
+Model hyper-parameters
+{'algorithm': 'brute', 'leaf_size': 30, 'metric': 'cosine', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'radius': 1.0}
+Selecting 20 random customers ... 
+Nearest Neighbours of Customer : 38ATFJO0DZ 
+1: Customer=4HZ6TG0DRW, with distance of 0.18350341907227397
+2: Customer=OAC4RESV06, with distance of 0.18350341907227397
+3: Customer=7TOY5Z62S3, with distance of 0.18350341907227397
+4: Customer=GKNTELJ37M, with distance of 0.18350341907227397
+Recommendations from model has a similarity of 0.9058216273156766 with actual behavior for Customer: 38ATFJO0DZ 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+blouse
+bookmyshowgiftcard
+books
+brief
+exotictea
+sonylivvoucher
+
+
+
+Nearest Neighbours of Customer : 38KGI72YWD 
+1: Customer=6Y1U4BG53W, with distance of 0.2254033307585166
+2: Customer=UMN5A39H6C, with distance of 0.3071796769724492
+3: Customer=375P1QYIER, with distance of 0.3238765962171868
+4: Customer=OG7JAVNDCX, with distance of 0.3291796067500631
+Recommendations from model has a similarity of 0.8491918278948404 with actual behavior for Customer: 38KGI72YWD 
+Recommendations: 
+ballpen
+bookmyshowgiftcard
+books
+cultfitvoucher
+headphone
+inkpen
+lights
+powerbank
+saree
+smartlights
+
+
+
+Nearest Neighbours of Customer : 1B08DY9MOQ 
+1: Customer=7H8CJWVM1Z, with distance of 0.3195861825602284
+2: Customer=95M07BAKUF, with distance of 0.33054445128349474
+3: Customer=20YILZRA67, with distance of 0.34008798240391
+4: Customer=NG7D6BH3QS, with distance of 0.3443899318928142
+Recommendations from model has a similarity of 0.81659945960021 with actual behavior for Customer: 1B08DY9MOQ 
+Recommendations: 
+alexa
+bookmyshowgiftcard
+casualshoes
+formalshoes
+headoutvoucher
+jeans
+television
+tshirt
+ubercashcard
+usbstick
+
+
+
+Nearest Neighbours of Customer : 1ABD3WQ27P 
+1: Customer=DABIZJUNQR, with distance of 0.2440710539815456
+2: Customer=F1RJMHE7SW, with distance of 0.29289321881345254
+3: Customer=A2S0JK5R8D, with distance of 0.29289321881345254
+4: Customer=96MZAH0SP1, with distance of 0.29289321881345254
+Recommendations from model has a similarity of 0.9284766908852593 with actual behavior for Customer: 1ABD3WQ27P 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+cleartripvoucher
+diamondjewellery
+hotstarvoucher
+luxurywatch
+metalfurniture
+sonylivvoucher
+television
+
+
+
+Nearest Neighbours of Customer : 1OK9HP0LWQ 
+1: Customer=AQ8M3ZCU6G, with distance of 0.3238765962171869
+2: Customer=84PCDR6MI3, with distance of 0.3545027756320971
+3: Customer=8S02U6YNCB, with distance of 0.36754446796632423
+4: Customer=WM8JZ4RD73, with distance of 0.38762756430420553
+Recommendations from model has a similarity of 0.7460038465922509 with actual behavior for Customer: 1OK9HP0LWQ 
+Recommendations: 
+agodavoucher
+bookmyshowgiftcard
+byjugiftcard
+diamondjewellery
+dreams11giftcard
+googlehome
+menssuit
+skirt
+speakers
+ubercashcard
+
+
+
+Nearest Neighbours of Customer : 13I94OPRSA 
+1: Customer=X2UVODR8JN, with distance of 0.16666666666666652
+2: Customer=DI9R7PUZMQ, with distance of 0.18350341907227397
+3: Customer=6M7BLJGVP2, with distance of 0.18350341907227397
+4: Customer=KCVJZB2P9R, with distance of 0.18350341907227397
+Recommendations from model has a similarity of 0.957427107756338 with actual behavior for Customer: 13I94OPRSA 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+blouse
+diamondjewellery
+goldjewelley
+perfume
+sleepers
+tshirt
+
+
+
+Nearest Neighbours of Customer : 1VLJOWPM9K 
+1: Customer=CYPFQ0SVM4, with distance of 0.09028234770531585
+2: Customer=FBATOMZS5X, with distance of 0.15776511238768443
+3: Customer=TPZVU3MC7B, with distance of 0.16620331754366235
+4: Customer=A7OBMEUL3K, with distance of 0.16954520146260044
+Recommendations from model has a similarity of 0.9098483494654316 with actual behavior for Customer: 1VLJOWPM9K 
+Recommendations: 
+agodavoucher
+bharatpetroleumvoucher
+byjugiftcard
+formalshoes
+googlehome
+hoteltajgiftcard
+jeans
+laptopbag
+makemytripvoucher
+usbstick
+
+
+
+Nearest Neighbours of Customer : 2XKR9EAM8L 
+1: Customer=AVB6IR8Y7K, with distance of 0.2022759647825344
+2: Customer=SEVN8X4QFY, with distance of 0.24738219099361825
+3: Customer=EK6CXTM4BW, with distance of 0.2614510541240034
+4: Customer=5LDKFSMNTV, with distance of 0.2614510541240035
+Recommendations from model has a similarity of 0.8616404368553292 with actual behavior for Customer: 2XKR9EAM8L 
+Recommendations: 
+bookmyshowgiftcard
+byjugiftcard
+cellphone
+diamondjewellery
+handkerchief
+luxurywatch
+saree
+sunglasses
+television
+usbstick
+
+
+
+Nearest Neighbours of Customer : 3C5AKE4FXS 
+1: Customer=OG564BYUAN, with distance of 0.40700054667111896
+2: Customer=JR4IABDEYO, with distance of 0.41661664880305205
+3: Customer=ZKWOD0A12P, with distance of 0.43305329048615915
+4: Customer=B1C6K9XT0U, with distance of 0.4359239251822339
+Recommendations from model has a similarity of 0.8226127456606227 with actual behavior for Customer: 3C5AKE4FXS 
+Recommendations: 
+agodavoucher
+goldjewelley
+hometheatre
+luxurywatch
+olacashcard
+shirt
+sleepers
+usbcable
+vedantugiftcard
+vest
+
+
+
+Nearest Neighbours of Customer : 2QDE5LP1JY 
+1: Customer=ZXBAMSD5LG, with distance of 0.32656497029852605
+2: Customer=4IQPORNXEY, with distance of 0.3313521501642682
+3: Customer=BGZNKQXWC7, with distance of 0.33333333333333326
+4: Customer=70DF1NI4CG, with distance of 0.33424971406431725
+Recommendations from model has a similarity of 0.8204079641806731 with actual behavior for Customer: 2QDE5LP1JY 
+Recommendations: 
+agodavoucher
+dreams11giftcard
+googlehome
+sunglasses
+tablet
+tataskygiftcard
+ubercashcard
+usbstick
+vest
+woodfurniture
+
+
+
+Nearest Neighbours of Customer : 0EGS64ND91 
+1: Customer=B4F3AQ8IRN, with distance of 0.12712843905603044
+2: Customer=G2CETBW731, with distance of 0.13397459621556118
+3: Customer=LR45GWMK32, with distance of 0.18350341907227397
+4: Customer=DHE0RK1QTM, with distance of 0.18350341907227397
+Recommendations from model has a similarity of 0.9263671131731708 with actual behavior for Customer: 0EGS64ND91 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+blouse
+bookmyshowgiftcard
+diamondjewellery
+netflixvoucher
+notepad
+router
+
+
+
+Nearest Neighbours of Customer : 03NCKI7TS6 
+1: Customer=D6EIRTC4Z3, with distance of 0.18350341907227397
+2: Customer=Y87A2B9S5K, with distance of 0.2254033307585166
+3: Customer=TXJIUCNR6O, with distance of 0.2928932188134523
+4: Customer=RUZF89GTB5, with distance of 0.2998599579859951
+Recommendations from model has a similarity of 0.8845379626717031 with actual behavior for Customer: 03NCKI7TS6 
+Recommendations: 
+books
+brief
+byjugiftcard
+cultfitvoucher
+headphone
+homeautomation
+hotstarvoucher
+laptop
+luxurywatch
+tablet
+
+
+
+Nearest Neighbours of Customer : 1QID82HPWV 
+1: Customer=3K57CW6I80, with distance of 0.33333333333333326
+2: Customer=1DSTXEHUYK, with distance of 0.35284977107056614
+3: Customer=L4NCAMQEKR, with distance of 0.3675444679663241
+4: Customer=TVI4QNGLE9, with distance of 0.39697731084447274
+Recommendations from model has a similarity of 0.8641264122753545 with actual behavior for Customer: 1QID82HPWV 
+Recommendations: 
+cellphone
+handbag
+handkerchief
+inkpen
+laptop
+skirt
+speakers
+tablet
+usbstick
+zomatocashcard
+
+
+
+Nearest Neighbours of Customer : 1NF6YO79V2 
+1: Customer=2QEAK3UXZF, with distance of 0.2928932188134523
+2: Customer=LHGX4PC1YW, with distance of 0.30689671991632783
+3: Customer=JZXQ4U2FVG, with distance of 0.3195861825602283
+4: Customer=MW41BUNEPG, with distance of 0.3264246859454365
+Recommendations from model has a similarity of 0.8233293074216317 with actual behavior for Customer: 1NF6YO79V2 
+Recommendations: 
+alexa
+bookmyshowgiftcard
+books
+dreams11giftcard
+exotictea
+hotelmarriotgiftcard
+hotstarvoucher
+netflixvoucher
+tshirt
+vedantugiftcard
+
+
+
+Nearest Neighbours of Customer : 07ML5VCNP6 
+1: Customer=MH9EG13SNB, with distance of 0.2151750346450847
+2: Customer=83CXUYB4V7, with distance of 0.24087472282851885
+3: Customer=FR2KYQ7AWE, with distance of 0.24088688371788325
+4: Customer=10ZRN5BAOP, with distance of 0.2437237399517258
+Recommendations from model has a similarity of 0.8597405428705255 with actual behavior for Customer: 07ML5VCNP6 
+Recommendations: 
+agodavoucher
+blouse
+casualshoes
+headphone
+hometheatre
+irctcvoucher
+kindle
+usbstick
+woodfurniture
+yatravoucher
+
+
+
+Nearest Neighbours of Customer : 31ROTP9UE0 
+1: Customer=X2EB3OJ85M, with distance of 0.28556549168823964
+2: Customer=IA14FKPOBJ, with distance of 0.29289321881345254
+3: Customer=T92HGIR1BP, with distance of 0.375
+4: Customer=YKHVFDWEPL, with distance of 0.375
+Recommendations from model has a similarity of 0.8100925873009825 with actual behavior for Customer: 31ROTP9UE0 
+Recommendations: 
+agodavoucher
+cleartripvoucher
+handkerchief
+headphone
+laptopbag
+luxurywatch
+netflixvoucher
+passportbag
+speakers
+trouser
+
+
+
+Nearest Neighbours of Customer : 1SXWVNI7LC 
+1: Customer=WDET9SP05B, with distance of 0.34240405077857083
+2: Customer=IR74YLU058, with distance of 0.346802735257819
+3: Customer=4LW071QDPF, with distance of 0.3686358501980237
+4: Customer=YP9TS0OGXF, with distance of 0.37390096630005887
+Recommendations from model has a similarity of 0.8154980300632474 with actual behavior for Customer: 1SXWVNI7LC 
+Recommendations: 
+agodavoucher
+goldjewelley
+homeautomation
+hoteltajgiftcard
+inkpen
+kindle
+laptop
+sonylivvoucher
+usbcable
+usbstick
+
+
+
+Nearest Neighbours of Customer : 0OYWJ4C97M 
+1: Customer=QWK92B5G8N, with distance of 0.2928932188134523
+2: Customer=3VJSW495HO, with distance of 0.2928932188134523
+3: Customer=BYV7K2P1TI, with distance of 0.2928932188134523
+4: Customer=SD2LVNGFM8, with distance of 0.2928932188134523
+Recommendations from model has a similarity of 0.9607689228305228 with actual behavior for Customer: 0OYWJ4C97M 
+Recommendations: 
+agodavoucher
+alexa
+ballpen
+bharatpetroleumvoucher
+bookmyshowgiftcard
+cellphone
+diamondjewellery
+menssuit
+monitors
+swiggycashcard
+
+
+
+Nearest Neighbours of Customer : 2CQMHI7A0J 
+1: Customer=CBJVQMUSR8, with distance of 0.3484162344649985
+2: Customer=F946KW5EAL, with distance of 0.39753592392329073
+3: Customer=IM1LNOKFZ5, with distance of 0.41445995623088017
+4: Customer=S05N27BIUD, with distance of 0.41445995623088017
+Recommendations from model has a similarity of 0.8275353858384635 with actual behavior for Customer: 2CQMHI7A0J 
+Recommendations: 
+cellphone
+deodrant
+handbag
+headphone
+inkpen
+irctcvoucher
+laptop
+shavingcream
+tablet
+yatravoucher
+
+
+
+Nearest Neighbours of Customer : 1KP4R2SQNO 
+1: Customer=ZEB8H0GT4N, with distance of 0.37720084467078163
+2: Customer=KLI6N2CYTJ, with distance of 0.39697731084447263
+3: Customer=C1DVLA6KJ3, with distance of 0.39697731084447274
+4: Customer=1GM03O87BA, with distance of 0.41498206069829546
+Recommendations from model has a similarity of 0.8199903777203918 with actual behavior for Customer: 1KP4R2SQNO 
+Recommendations: 
+agodavoucher
+alexa
+books
+headphone
+menssuit
+olacashcard
+perfume
+sonylivvoucher
+ubercashcard
+vootvoucher
+
+
+
+==============================
+CONTENT BASED FILTER MECHANISM
+==============================
+Number of record : (599096, 18)
+Interaction based recommendation without considering Age
+Final vector for Products
+Number of Products : 79
+Number of Customers  : 97527
+Model hyper-parameters
+{'algorithm': 'brute', 'leaf_size': 30, 'metric': 'cosine', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'radius': 1.0}
+Selecting 3 random products ... 
+Nearest Neighbours of Product : dreams11giftcard 
+1: Product=usbstick, with distance of 0.9594495892524719
+2: Product=bharatpetroleumvoucher, with distance of 0.9625450372695923
+3: Product=inkpen, with distance of 0.9646373987197876
+4: Product=bookmyshowgiftcard, with distance of 0.9653566479682922
+5: Product=ballpen, with distance of 0.966615617275238
+6: Product=headoutvoucher, with distance of 0.966694712638855
+7: Product=monitors, with distance of 0.9668046832084656
+8: Product=blouse, with distance of 0.9671867489814758
+9: Product=exotictea, with distance of 0.967204749584198
+
+
+
+Nearest Neighbours of Product : trouser 
+1: Product=usbstick, with distance of 0.9606626629829407
+2: Product=speakers, with distance of 0.9628443121910095
+3: Product=smartwatch, with distance of 0.9630791544914246
+4: Product=rummycirclegiftcard, with distance of 0.9651807546615601
+5: Product=monitors, with distance of 0.9659015536308289
+6: Product=passportbag, with distance of 0.9663496017456055
+7: Product=laptopbag, with distance of 0.966372013092041
+8: Product=swiggycashcard, with distance of 0.9664350152015686
+9: Product=printer, with distance of 0.9667664170265198
+
+
+
+Nearest Neighbours of Product : lights 
+1: Product=vootvoucher, with distance of 0.9633501172065735
+2: Product=usbstick, with distance of 0.9645934104919434
+3: Product=speakers, with distance of 0.9647698402404785
+4: Product=makemytripvoucher, with distance of 0.9648202657699585
+5: Product=sleepers, with distance of 0.9654456377029419
+6: Product=powerbank, with distance of 0.9656056761741638
+7: Product=vest, with distance of 0.9656192660331726
+8: Product=tablet, with distance of 0.9666058421134949
+9: Product=hotstarvoucher, with distance of 0.9667475819587708
+
+
+
+Age based recommendation 
+Final vector for Products
+Number of Products : 79
+Number of Customers  : 97527
+Model hyper-parameters
+{'algorithm': 'brute', 'leaf_size': 30, 'metric': 'cosine', 'metric_params': None, 'n_jobs': None, 'n_neighbors': 5, 'p': 2, 'radius': 1.0}
+Selecting 3 random products ... 
+Nearest Neighbours of Product : trouser 
+1: Product=usbstick, with distance of 0.8955617398713995
+2: Product=sleepers, with distance of 0.9157127526229097
+3: Product=hometheatre, with distance of 0.9161793259257521
+4: Product=byjugiftcard, with distance of 0.9162837269683081
+5: Product=rummycirclegiftcard, with distance of 0.9168954521238708
+6: Product=headoutvoucher, with distance of 0.9169176194062625
+7: Product=inkpen, with distance of 0.9181363700013312
+8: Product=makemytripvoucher, with distance of 0.9181955813037845
+9: Product=monitors, with distance of 0.9186817167886686
+
+
+
+Nearest Neighbours of Product : monitors 
+1: Product=usbstick, with distance of 0.8889669419569849
+2: Product=exotictea, with distance of 0.9132008398934932
+3: Product=blouse, with distance of 0.9134170792975906
+4: Product=tataskygiftcard, with distance of 0.9138521175896632
+5: Product=dreams11giftcard, with distance of 0.9140842879058299
+6: Product=ballpen, with distance of 0.9146105371006381
+7: Product=jeans, with distance of 0.9148004786242042
+8: Product=headoutvoucher, with distance of 0.9156425702884277
+9: Product=olacashcard, with distance of 0.9159942669466061
+
+
+
+Nearest Neighbours of Product : laptopbag 
+1: Product=usbstick, with distance of 0.8981979560804239
+2: Product=books, with distance of 0.9129451116385418
+3: Product=yatravoucher, with distance of 0.9135336176407449
+4: Product=kindle, with distance of 0.9142281361377277
+5: Product=byjugiftcard, with distance of 0.9147872633576559
+6: Product=cultfitvoucher, with distance of 0.914973713462041
+7: Product=alexa, with distance of 0.9150834697863567
+8: Product=laptop, with distance of 0.9162725972330795
+9: Product=smartwatch, with distance of 0.9164363683250344
+
+
+
